@@ -1,2 +1,2 @@
 # pymapdash
-Magnitude wise earthquake plots from 1990 to 2018.
+Magnitude wise earthquake plots from 2000 to 2018.
